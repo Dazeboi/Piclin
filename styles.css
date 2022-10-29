@@ -1,0 +1,184 @@
+
+
+
+html,body{
+  margin: 0;
+  width: 100%;
+ height: 100%;
+ overflow-x: hidden;
+   margin-bottom: 0;
+
+}
+.bar{
+  margin-top: 0;
+}
+
+
+.top{
+ background-color: #F7F5F2;
+ height: 64.625em;
+ margin-top: 0;
+ overflow: hidden;
+
+
+}
+.postion_phone{
+  margin-top: 20px;
+}
+
+.sale{
+  font-size: 58px;
+  font-family: 'Oswald', sans-serif;
+  position: relative;
+  top:250px;
+  text-align: center;
+}
+
+.kal_padhonga{
+  font-size: 90px;
+}
+
+.scroll_fix{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+.margin{
+  margin-top: 100px;
+}
+
+.padding{
+  padding: 0;
+}
+.padding1{
+  background-color: white;
+
+}
+.padding_home{
+  padding: 15%;
+  padding-right: 0;
+
+
+
+}
+.button_margin{
+  margin: 10px;
+}
+ .postion_phone{
+    padding-top: 3em;
+  position: relative;
+  left: 10em;
+
+
+ }
+.backcheck{
+  background-color: white;
+}
+
+
+.carousel-indicators{
+  position: relative;
+  bottom: 50px;
+}
+.card-width{
+  width: 3rem;
+}
+
+
+@media (min-width: 990px)
+{
+
+.top{
+  height: 40.625rem;
+
+}
+
+}
+
+@media (max-width: 990px)
+{
+  .postion_phone{
+
+    position: relative;
+      left: 2px;
+      bottom:70px;
+
+  }
+}
+.footer{
+  text-align: center;
+  height: 100px;
+  padding-top: 30px;
+  background-color: #F7F7F7;
+  margin-bottom: 0;
+}
+.big{
+  font-size: 20px;
+  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+/* }
+<div class="backcheck">
+<div class="margin row padding1">
+<div class="card col-lg-4 col-mid-6 col-sm-12" >
+  <img src="1.jpeg" class="card-img-top" alt="...">
+
+  <div class="card-body">
+    <h5 class="card-title">Bluefo</h5>
+    <p class="card-text">Originally,That Made Up By Legendary Negus Dazzy</p>
+      <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-primary"><i class="fa-solid fa-money-bill"></i> BUY</a>
+  </div>
+</div>
+<div class="card col-lg-4 col-mid-6 col-sm-12">
+  <img src="2.jpeg" class="card-img-top" alt="...">
+
+  <div class="card-body">
+    <h5 class="card-title">Multi Plantery</h5>
+    <p class="card-text">Shows The Power Of Humanity.Think About It</p>
+     <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-primary"><i class="fa-solid fa-money-bill"></i> BUY</a>
+  </div>
+</div>
+<div class="card col-lg-4 col-mid-6 col-sm-12" >
+  <img src="3.jpeg" class="card-img-top" alt="...">
+
+  <div class="card-body">
+    <h5 class="card-title">Art Of Spaceship</h5>
+    <p class="card-text">It Shows The Curiosity Of Humanity Toward Space From Start To Still. </p>
+    <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-primary"><i class="fa-solid fa-money-bill"></i> BUY</a>
+  </div>
+
+</div>
+</div>
+<div class="margin row form-group padding">
+<div class="card col-lg-4 col-mid-6 col-sm-12" >
+  <img src="1.jpeg" class="card-img-top" alt="...">
+
+  <div class="card-body">
+    <h5 class="card-title">Bluefo</h5>
+    <p class="card-text">Originally,That Made Up By Legendary Negus Dazzy</p>
+      <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-primary"><i class="fa-solid fa-money-bill"></i> BUY</a>
+  </div>
+</div>
+<div class="card col-lg-4 col-mid-6 col-sm-12" >
+  <img src="2.jpeg" class="card-img-top" alt="...">
+
+  <div class="card-body">
+    <h5 class="card-title">Multi Plantery</h5>
+    <p class="card-text">Shows The Power Of Humanity.Think About It</p>
+     <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-primary"><i class="fa-solid fa-money-bill"></i> BUY</a>
+  </div>
+</div>
+<div class="card col-lg-4 col-sm-12 margin_sell" >
+
+  <img src="3.jpeg" class="card-img-top" alt="...">
+
+  <div class="card-body">
+    <h5 class="card-title">Art Of Spaceship</h5>
+    <p class="card-text">It Shows The Curiosity Of Humanity Toward Space From Start To Still. </p>
+    <a href="https://youtu.be/dQw4w9WgXcQ" class="btn btn-primary"><i class="fa-solid fa-money-bill"></i> BUY</a>
+  </div>
+
+</div>
+</div>
+<div> */
